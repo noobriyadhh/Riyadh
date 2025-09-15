@@ -1,26 +1,25 @@
 <p align="center">
-  <img src="https://i.ibb.co/2tQy6Hb/riyadh-avatar.png" width="160" style="border-radius:50%; border:4px solid #28a745; box-shadow:0 4px 15px rgba(0,0,0,0.3);" alt="Riyadh Usual"/>
+  <img src="https://i.ibb.co/2tQy6Hb/riyadh-avatar.png" width="160" style="border-radius:50%; border:4px solid #28a745; box-shadow: 0 0 20px #28a745, 0 0 40px #3fff7f;" alt="Riyadh Usual"/>
 </p>
 
-<p align="center">
-  <!-- Rainbow animated name GIF hosted in your repo -->
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/riyadh-name.gif" alt="Riyadh Usual" width="600"/>
-</p>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #28a745, #3fff7f); -webkit-background-clip: text; color: transparent;">Riyadh Usual</span>
+</h1>
 
-<h3 align="center" style="text-shadow: 1px 1px 2px #000;">Modern Web Apps Developer | Ethical Hacker | Open Source Contributor</h3>
+<h3 align="center">💻 Modern Web Apps Developer | 🔐 Ethical Hacker | 🌐 Open Source Contributor</h3>
 
 ---
 
 ## 👤 About Me
-<p align="center" style="color:#555;">
-Hi, I’m <b>Riyadh</b>! I turn ideas into clean code, explore cybersecurity & dark web research, and contribute to ethical hacking projects. Always learning & improving daily.
+<p align="center">
+Hi, I’m <b>Riyadh</b>! I turn complex ideas into clean code, explore cybersecurity & dark web research, and contribute to ethical hacking projects. Always learning, experimenting, and improving every day.
 </p>
 
 ---
 
 ## 💻 Skills & Tech Stack
 
-### Programming Languages
+### Programming & Web
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -31,10 +30,10 @@ Hi, I’m <b>Riyadh</b>! I turn ideas into clean code, explore cybersecurity & d
 
 ### Hacking & Security
 <p align="center">
-<img src="https://img.shields.io/badge/Ethical_Hacking-ff5722?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ethical_Hacking-ff5722?style=for-the-badge&logo=hackthebox"/>
 <img src="https://img.shields.io/badge/PenTesting-ff9800?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cyber_Security-ff5722?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dark_Web_Research-ff5722?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dark_Web-ff5722?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Bug_Bounty-28a745?style=for-the-badge"/>
 </p>
 
@@ -50,20 +49,12 @@ Hi, I’m <b>Riyadh</b>! I turn ideas into clean code, explore cybersecurity & d
 
 ---
 
-## 🚀 Major Projects
+## 🚀 Projects
 <p align="center">
-<a href="https://github.com/YourUsername/DarkWebScanner">
-<img src="https://img.shields.io/badge/DarkWeb_Scanner-Python-ff5722?style=for-the-badge"/>
-</a>
-<a href="https://github.com/YourUsername/PenTestingLab">
-<img src="https://img.shields.io/badge/PenTesting_Lab-KaliLinux-ff9800?style=for-the-badge"/>
-</a>
-<a href="https://github.com/YourUsername/BugBountyTracker">
-<img src="https://img.shields.io/badge/Bug_Bounty_Tracker-JavaScript-28a745?style=for-the-badge"/>
-</a>
-<a href="https://github.com/YourUsername/CyberSecurityToolkit">
-<img src="https://img.shields.io/badge/Cyber_Security_Toolkit-Docker-009688?style=for-the-badge"/>
-</a>
+<a href="https://github.com/yourusername/DarkWebScanner"><img src="https://img.shields.io/badge/DarkWeb_Scanner-Python-ff5722?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://github.com/yourusername/PenTestingLab"><img src="https://img.shields.io/badge/PenTesting_Lab-KaliLinux-ff9800?style=for-the-badge"/></a>
+<a href="https://github.com/yourusername/BugBountyTracker"><img src="https://img.shields.io/badge/Bug_Bounty_Tracker-JavaScript-28a745?style=for-the-badge"/></a>
+<a href="https://github.com/yourusername/CyberSecurityToolkit"><img src="https://img.shields.io/badge/Cyber_Security_Toolkit-Docker-009688?style=for-the-badge"/></a>
 </p>
 
 ---
@@ -79,22 +70,22 @@ Hi, I’m <b>Riyadh</b>! I turn ideas into clean code, explore cybersecurity & d
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YourValidUsername&show_icons=true&count_private=true&theme=radical&hide_border=true&hide_title=false" width="48%" style="margin-right:2%; border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,0.3);"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourValidUsername&layout=compact&theme=radical&hide_border=true" width="48%" style="border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,0.3);"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" width="80%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" width="80%"/>
 </p>
 
 ---
 
-## 💬 Connect with Me
+## 📬 Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/YourLinkedIn">LinkedIn</a> | 
-<a href="mailto:your.email@example.com">Email</a> | 
-<a href="https://yourportfolio.com">Portfolio</a>
+<a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🖤 Visitor Badge
+## 🖤 Visitors
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=YourUsername.YourUsername" alt="Visitor Badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" alt="Visitor Badge"/>
 </p>
