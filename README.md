@@ -1,10 +1,15 @@
 <p align="center">
-  <img src="https://i.ibb.co/2tQy6Hb/riyadh-avatar.png" width="160" style="border-radius:50%; border:4px solid #28a745; box-shadow:0 4px 15px rgba(0,0,0,0.2);" alt="Riyadh Usual"/>
+  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/riyadh-avatar.png" 
+       width="160" 
+       style="border-radius:50%; border:4px solid #28a745; box-shadow:0 4px 15px rgba(0,0,0,0.2);" 
+       alt="Riyadh Usual"/>
 </p>
 
-<!-- Animated Gradient Name -->
+<!-- Animated Name -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/0aa2a4de65c40e657d414e29f34f6e07b0b1f1b3e79bb8f0e15d156e1e4d8b6a/68747470733a2f2freadme-typing-svg.demolab.com%2f%3ffont%3dFira+Code%26size%3d60%26pause%3d1000%26color%3d28a745%26width%3d600%26lines%3dRiyadh+Usual" alt="Riyadh Usual" />
+  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/riyadh-name.svg" 
+       alt="Riyadh Usual" 
+       width="600"/>
 </p>
 
 <h3 align="center">Modern Web Apps Developer | Ethical Hacker | Open Source Contributor</h3>
@@ -52,16 +57,16 @@ Hi, I’m <b>Riyadh</b>! I turn ideas into clean code, explore cybersecurity & d
 
 ## 🚀 Major Projects
 <p align="center">
-<a href="https://github.com/yourusername/DarkWebScanner">
+<a href="https://github.com/YourUsername/DarkWebScanner">
 <img src="https://img.shields.io/badge/DarkWeb_Scanner-Python-ff5722?style=for-the-badge"/>
 </a>
-<a href="https://github.com/yourusername/PenTestingLab">
+<a href="https://github.com/YourUsername/PenTestingLab">
 <img src="https://img.shields.io/badge/PenTesting_Lab-KaliLinux-ff9800?style=for-the-badge"/>
 </a>
-<a href="https://github.com/yourusername/BugBountyTracker">
+<a href="https://github.com/YourUsername/BugBountyTracker">
 <img src="https://img.shields.io/badge/Bug_Bounty_Tracker-JavaScript-28a745?style=for-the-badge"/>
 </a>
-<a href="https://github.com/yourusername/CyberSecurityToolkit">
+<a href="https://github.com/YourUsername/CyberSecurityToolkit">
 <img src="https://img.shields.io/badge/Cyber_Security_Toolkit-Docker-009688?style=for-the-badge"/>
 </a>
 </p>
@@ -79,8 +84,8 @@ Hi, I’m <b>Riyadh</b>! I turn ideas into clean code, explore cybersecurity & d
 
 ## 📈 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_border=true&count_private=true&hide_title=true" width="80%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula&hide_border=true&hide_title=true" width="80%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dracula&hide_border=true&count_private=true&hide_title=true" width="80%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dracula&hide_border=true&hide_title=true" width="80%"/>
 </p>
 
 ---
@@ -96,5 +101,5 @@ Hi, I’m <b>Riyadh</b>! I turn ideas into clean code, explore cybersecurity & d
 
 ## 🖤 Visitor Badge
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" alt="Visitor Badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=YourUsername.YourUsername" alt="Visitor Badge"/>
 </p>
