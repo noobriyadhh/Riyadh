@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://i.ibb.co/2tQy6Hb/riyadh-avatar.png" width="160" 
-       style="border-radius:50%; border:4px solid #28a745; box-shadow:0 4px 15px rgba(0,0,0,0.2);" 
+  <img src="https://i.ibb.co/2tQy6Hb/riyadh-avatar.png" width="160"
+       style="border-radius:50%; border:4px solid #28a745; box-shadow:0 4px 15px rgba(0,0,0,0.2);"
        alt="Riyadh Usual"/>
 </p>
 
 <p align="center">
-  <!-- Animated GIF name -->
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/riyadh-name.gif" alt="Riyadh Usual" width="600"/>
+  <!-- Animated Name GIF -->
+  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/riyadh-name.gif" 
+       alt="Riyadh Usual" width="600"/>
 </p>
 
 <h3 align="center">Modern Web Apps Developer | Ethical Hacker | Open Source Contributor</h3>
