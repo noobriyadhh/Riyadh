@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="160" style="border-radius:50%; border:4px solid #28a745;" alt="Riyadh Usual"/>
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="160" style="border-radius:50%; border:4px solid #28a745;" alt="Noob Riyadh"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Riyadh_Usual-%20-28a745?style=for-the-badge&logo=appveyor&logoColor=white&labelColor=000000&color=00ff00"/>
+  <img src="https://img.shields.io/badge/Noob_riyadh-%20-28a745?style=for-the-badge&logo=appveyor&logoColor=white&labelColor=000000&color=00ff00"/>
 </p>
 
 <h3 align="center">💻 Modern Web Apps Developer | 🔐 Ethical Hacker | 🌐 Open Source Contributor</h3>
@@ -90,9 +90,9 @@ Hi, I’m **Riyadh**! I turn ideas into clean, scalable code, explore cybersecur
 
 ## 📬 Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white"/></a>
+<a href="https://linkedin.com/in/jahidul-hassan-riyadh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:riyadhusual2014.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://riyadh.portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white"/></a>
 </p>
 
 ---
